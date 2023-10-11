@@ -1,0 +1,55 @@
+.style{
+
+}
+ body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f0f0f0;
+        }
+        header {
+            position: fixed;
+            margin-left: 0;
+            margin-top: 2%;
+            text-align: center;
+            padding: 20px 260px;
+            background-color: black;
+        }
+        h1 {
+            margin: 0;
+        }
+        nav {
+            background-color: #444;
+            padding: 10px;
+            text-align: center;
+        }
+        nav a {
+            color: #fff;
+            text-decoration: none;
+            margin: 0 20px;
+        }
+        nav a:hover {
+            text-decoration: underline;
+        }
+        .container {
+            max-width: 800px;
+            margin: 20px auto;
+            padding: 20px;
+            background-color: #fff;
+            box-shadow: black;
+        }
+        h2 {
+            margin-top: 0;
+        }
+        p {
+            line-height: 1.5;
+            text-align: center;
+        }
+        marquee {
+          margin-top: 0px;
+          text-decoration-color: #fff;
+          font-size: 15px;
+          padding: 6px 0px;
+          background-color: red;
+          position: fixed;
+        }
